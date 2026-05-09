@@ -1,1 +1,1 @@
-# m-pro
+# mini-projects
