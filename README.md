@@ -1,2 +1,2 @@
 # mini-projects
-All Minor Projects With Code Available 
+All Minor Projects With Code & Fi 
