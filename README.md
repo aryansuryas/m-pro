@@ -1,2 +1,2 @@
 # mini-projects
-All Minor Projects With Code Availab
+All Minor Projects With Code Available 
