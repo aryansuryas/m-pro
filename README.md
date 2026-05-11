@@ -1,2 +1,2 @@
 # mini-projects
-All M
+All Minor Projects W
