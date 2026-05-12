@@ -1,2 +1,3 @@
 # mini-projects
-All Minor Projects With Code & File Structure.
+All Minor Projects With Code & File Structures
+
