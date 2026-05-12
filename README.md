@@ -1,3 +1,3 @@
 # mini-projects
-All Minor Projects With Code & File Structures avail.
+All Minor Projects With Code & File Structures avail. conc
 
