@@ -1,2 +1,2 @@
 # mini-projects
-This Repo comtains
+This Repo comtains all the mini proj
