@@ -1,3 +1,2 @@
 # mini-projects
-All Minor Projects With Code & File Structures avail. conc
-
+This Repo comtains
