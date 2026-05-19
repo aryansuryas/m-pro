@@ -1,2 +1,2 @@
 # mini-projects
-All Mini Projects codw availablw
+All Mini Projects codw available
